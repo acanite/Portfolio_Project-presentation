@@ -76,4 +76,4 @@ Philimon Derib:
 
 Github: https://github.com/philimon-reset
 Linkedin: https://www.linkedin.com/in/philimon-derib/
-Project Link: https://github.com/philimon-reset/Git-Stats
+Project Link: https://github.com/acanite-reset/Git-Stats
