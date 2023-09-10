@@ -1,5 +1,4 @@
-
-Logo
+![logo](https://github.com/acanite/Portfolio_Project-presentation/assets/100510532/321be9ea-64d8-44df-89ca-ccca60e7058b)
 
 Git Stats
 A convienient tool for developers to showcase github projects
@@ -15,7 +14,8 @@ Roadmap
 License
 Contact
 Introduction
-Shot
+![intro](https://github.com/acanite/Portfolio_Project-presentation/assets/100510532/b73879b3-e6fa-43d1-9f2c-3b64a7e9edec)
+
 
 We have all been their, wanting to showcase our best projects to get that dream gig, but building websites for all those projects might not seem like a great idea.
 
@@ -46,6 +46,7 @@ Copy the given html block to your Portfolio page.
 Enjoy
 Usage
 We can use this tool to make our projects precentable to future employers without needlessly building multiple site for each one. Shot
+![SharedScreenshot](https://github.com/acanite/Portfolio_Project-presentation/assets/100510532/36781e34-4abc-40a5-adaf-de502f3e4f8c)
 
 Roadmap
  Work on the MVP (minimum viable product) to showcase proof of concept
